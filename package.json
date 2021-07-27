@@ -1,0 +1,21 @@
+{
+  "name": "balaboba-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Yandex",
+    "Balaboba",
+    "YaLM",
+    "AI"
+  ],
+  "author": "Vyacheslav",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "random-useragent": "^0.5.0"
+  }
+}
